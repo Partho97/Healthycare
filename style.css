@@ -17,6 +17,10 @@ html{
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
 header{
     position: fixed;
     top: 0;
